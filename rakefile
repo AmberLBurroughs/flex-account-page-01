@@ -1,0 +1,2 @@
+require 'sinatra/activerecord/rake'
+require './recharge_scheduler2.rb'
